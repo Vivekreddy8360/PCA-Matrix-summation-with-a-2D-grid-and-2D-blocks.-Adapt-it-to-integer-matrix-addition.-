@@ -196,6 +196,7 @@ int main(int argc, char **argv)
 ```
 ## Output:
 ![image](https://github.com/Vivekreddy8360/PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-/assets/94525701/caaadeda-46ec-48d0-a1b4-8d5839ec6257)
+
 Matrix initialization : 6.338138 sec.
 
 Sum matrix on Host : 0.884061 sec.
